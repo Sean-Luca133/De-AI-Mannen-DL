@@ -1,4 +1,5 @@
 venv/
+DL/train
 .venv
 __pycache__/
 *.pyc
